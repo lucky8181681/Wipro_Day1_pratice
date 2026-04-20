@@ -62,6 +62,14 @@ class PatternMatchingDemo
 
         var result = TupleDemo.CalculateRectangle(10, 7); //TupleDemo
         Console.WriteLine("Tuple Output: " + result);
+
+        int a, b;                                             // Use of out demo
+
+        UseOfOut.GetValues(out a, out b);
+
+        Console.WriteLine("Out values:");
+        Console.WriteLine(a);
+        Console.WriteLine(b);
     }
 }
 class Person                                                  // Class for property pattern

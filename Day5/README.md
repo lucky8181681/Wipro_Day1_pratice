@@ -1,22 +1,22 @@
-# C# Pattern Matching Demo
+# C# Pattern Matching & Tuple Demo
 
-## 📌 Overview
-Console application demonstrating pattern matching in C# with type checking, tuples, and object properties.
+## Overview
+Console app demonstrating pattern matching and tuple usage in C#.
 
-## 🚀 Features
+## Features
 - Type pattern matching using `switch`
-- Tuple deconstruction using `(var x, var y)`
-- Property pattern matching with objects
-- User input for value, name, and age
+- Tuple deconstruction `(var x, var y)`
+- Returning multiple values using tuples
+- Property pattern matching
 
-## 🧩 Functionality
-- Identifies input as integer, double, or string  
-- Extracts tuple values using pattern matching  
-- Determines if a person is adult or minor  
+## Functionality
+- Detects input type (int, double, string)  
+- Extracts tuple values  
+- Returns area & perimeter using tuple  
+- Checks if person is adult or minor  
 
-## 🛠️ Technologies
-- C#
-- .NET Console Application
+## Tech
+C#, .NET
 
-## 👤 Author
+## Author
 Sneha
