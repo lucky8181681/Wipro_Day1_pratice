@@ -40,10 +40,16 @@ Validates user credentials by comparing hashed passwords.
 ---
 
 ## 🧪 How to Run
-1. Run the project
-2. Open browser:
+
+1. Clone the repository
+2. Navigate to project folder:
+   cd Day10/Day10_SecureAuthAPI
+3. Run the application:
+   dotnet run
+4. Open browser and access:
    http://localhost:5112/swagger
-3. Test the APIs using Swagger UI
+
+(Note: Swagger UI will work only when the application is running locally.)
 
 ---
 
