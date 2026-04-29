@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="MiddlewareApp/MiddlewareApp.csproj" />
+  <Project Path="RazorPagesApp/RazorPagesApp.csproj" Id="7a418aa3-4503-4856-94b0-80dbd14403ef" />
+</Solution>
